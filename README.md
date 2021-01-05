@@ -3,6 +3,7 @@
 ## Platform
 frontend : LINE API, LINE Login(LIFF), Rich Menu, Flex Message<br>
 backend : Heroku<br>
+<br>
 
 ## Problems I've encountered & currently solved
 - unable to successfully verity Webhook URL<br>
@@ -22,7 +23,7 @@ This step is not necessery but very handy and convinent when you don't want to s
 to Heroku Application log page.<br>
 <br>
 
-- kinds confused, like why call it "hero", in flex message<br>
+- kinds confused about flex message<br>
 Here's my conclution about flex message:
 <br>
 
@@ -53,8 +54,11 @@ In other words, "alt_text" is sort of a trigger word.<br>
 "contents" is what your flex message should look like.<br>
 So there you go, can't make a flex message out of empty alt_text and contents.<br>
 
+<br>
 
 ## Language
+Python
+<br>
 
 ## Colors Section
 thoughts : Panton COLOR OF THE YEAR 2021, FRIENDS<br>
