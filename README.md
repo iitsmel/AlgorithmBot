@@ -1,8 +1,8 @@
 # Data-Structure-Chatbot
 
 ## Platform
-frontend : LINE API, LINE Login(LIFF), Rich Menu, Flex Message<br>
-backend : Heroku<br>
+front-end : LINE API, LINE Login(LIFF), Rich Menu, Flex Message<br>
+back-end : Heroku<br>
 <br>
 
 ## Problems I've encountered & currently solved
