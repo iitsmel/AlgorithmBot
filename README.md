@@ -7,7 +7,7 @@ back-end : Heroku<br>
 
 ## Problems I've encountered & currently solved
 - unable to successfully verify Webhook URL<br>
-> enter following commands works for me<br>
+enter following commands works for me<br>
 > git add .<br>
 > git commit -am "your previous input"<br>
 <br>
