@@ -3,6 +3,7 @@
 ## Platform
 front-end : LINE API, LINE Login(LIFF), Rich Menu, Flex Message<br>
 back-end : Heroku<br>
+All the information about data structure come from [here](https://github.com/iitsmel/iitsmel.io).<br>
 <br>
 
 ## Problems I've encountered & currently solved
