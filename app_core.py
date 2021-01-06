@@ -45,16 +45,18 @@ def handle_message(event):
     line_bot_api.reply_message(
         event.reply_token,
         FlexSendMessage(alt_text= 'hi', 
-                contents = { 'type': 'bubble', 'direction': 'ltr',
-                    'hero': {
-                        'type': 'image',
-                        'url': 'https://example.com/cafe.jpg',
-                        'size': 'full',
-                        'aspectRatio': '20:13',
-                        'aspectMode': 'cover',
-                        'action': { 'type': 'uri', 'uri': 'http://example.com', 'label': 'label' }
-                    }
-                }
+                contents = { "type": "bubble",
+                            "body": { "type": "box", "layout": "horizontal",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "Hello",
+                                            "color": "#00ff00",
+                                            "flex": 0
+                                        }
+                                    ]
+                                }
+                            }
         )
     )
 
