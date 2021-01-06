@@ -23,7 +23,7 @@ This step is not necessery but very handy and convinent when you don't want to s
 to Heroku Application log page.<br>
 <br>
 
-- kinds confused about flex message<br>
+- a little bit confused about flex message<br>
 Here's my conclution about flex message:
 <br>
 
