@@ -1,0 +1,87 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://user-images.githubusercontent.com/68285613/105696173-e97f2600-5f3d-11eb-91f4-151f2c02ca35.png",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover",
+      "action": {
+        "type": "uri",
+        "uri": "https://liff.line.me/1655540473-l8mqKXyQ"
+      }
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Sorting",
+          "color": "#42A2D6",
+          "weight": "bold",
+          "size": "xl"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Examples and Explanations",
+                  "wrap": true,
+                  "color": "#00009E",
+                  "size": "sm",
+                  "flex": 5
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Bubble Sort, Recursive Bubble Sort, Merge Sort, Quick Sort, Heap Sort",
+                  "wrap": true,
+                  "color": "#00009E",
+                  "size": "sm",
+                  "flex": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "spacing": "sm",
+      "contents": [
+        {
+          "type": "button",
+          "style": "link",
+          "height": "sm",
+          "action": {
+            "type": "uri",
+            "label": "WEBSITE",
+            "uri": "https://liff.line.me/1655540473-l8mqKXyQ"
+          }
+        },
+        {
+          "type": "spacer",
+          "size": "sm"
+        }
+      ],
+      "flex": 0
+    }
+  }

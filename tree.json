@@ -1,0 +1,87 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://user-images.githubusercontent.com/68285613/105694508-04509b00-5f3c-11eb-88e4-b210440358c3.png",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover",
+      "action": {
+        "type": "uri",
+        "uri": "https://liff.line.me/1655540473-W8w5r6KJ"
+      }
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Tree",
+          "color": "#D2C385",
+          "weight": "bold",
+          "size": "xl"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Examples and Explanations",
+                  "wrap": true,
+                  "color": "#665236",
+                  "size": "sm",
+                  "flex": 5
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Binary Tree, Red Black Tree, AVL Tree, 2-3 Tree, 2-3-4 Tree",
+                  "wrap": true,
+                  "color": "#665236",
+                  "size": "sm",
+                  "flex": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "spacing": "sm",
+      "contents": [
+        {
+          "type": "button",
+          "style": "link",
+          "height": "sm",
+          "action": {
+            "type": "uri",
+            "label": "WEBSITE",
+            "uri": "https://liff.line.me/1655540473-W8w5r6KJ"
+          }
+        },
+        {
+          "type": "spacer",
+          "size": "sm"
+        }
+      ],
+      "flex": 0
+    }
+  }
