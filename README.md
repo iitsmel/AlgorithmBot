@@ -57,7 +57,8 @@ In other words, "alt_text" is sort of a trigger word.<br>
 So there you go, can't make a flex message out of empty alt_text and contents.<br>
 <br><br>
 
-- json problem
+- json problem<br>
+
 [This website](https://developers.line.biz/flex-simulator) helped me a lot. Remember, json has a specific form, there are some content can't be deleted.
 <br>
 
