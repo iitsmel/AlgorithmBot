@@ -23,7 +23,7 @@ enter following commands works for me<br>
 <br>
 This step is not necessery but very handy and convinent when you don't want to switch
 to Heroku Application log page.<br>
-<br>
+<br><br>
 
 - a little bit confused about flex message<br>
 Here's my conclution about flex message:
@@ -55,7 +55,10 @@ By recognizing this reply, the bot will send a flex message.<br>
 In other words, "alt_text" is sort of a trigger word.<br>
 "contents" is what your flex message should look like.<br>
 So there you go, can't make a flex message out of empty alt_text and contents.<br>
+<br><br>
 
+- json problem
+[This website](https://developers.line.biz/flex-simulator) helped me a lot. Remember, json has a specific form, there are some content can't be deleted.
 <br>
 
 ## Language
