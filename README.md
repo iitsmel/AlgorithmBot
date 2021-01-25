@@ -1,9 +1,10 @@
 # Data-Structure-Chatbot
 
-## Platform
+## Platform & QR Code
 front-end : LINE API, LINE Login(LIFF), Rich Menu, Flex Message<br>
 back-end : Heroku<br>
 All the information about data structures come from [here](https://github.com/iitsmel/iitsmel.io).<br>
+![](https://user-images.githubusercontent.com/68285613/105697916-28ae7680-5f40-11eb-8c5e-e362dcb9f680.png)
 <br>
 
 ## Problems I've encountered & currently solved
