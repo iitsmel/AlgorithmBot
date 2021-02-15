@@ -71,12 +71,14 @@ Python
 thoughts : Panton COLOR OF THE YEAR 2021, FRIENDS<br>
 
 <img src="https://user-images.githubusercontent.com/68285613/107940097-aa834400-6fc2-11eb-825f-fe6f543f70de.png" width="300" height="300" />
+
 - PANTONE 17-5104 Ultimate Gray #939597
 - PANTONE 13-0647 Illuminating #F5DF4D
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/68285613/107939900-61cb8b00-6fc2-11eb-897c-2d4f633fa487.png" width="300" height="300" />
+
 - background : #FFF580
 - shade : #00009E
 - word : #42A2D6
@@ -84,6 +86,7 @@ thoughts : Panton COLOR OF THE YEAR 2021, FRIENDS<br>
 <br>
 
 <img src="https://user-images.githubusercontent.com/68285613/107939833-43658f80-6fc2-11eb-8204-ef79d7e4ddc2.png" width="300" height="300" />
+
 - background : #9C8CD4
 - shade : #665236
 - word : #D2C385
@@ -91,6 +94,7 @@ thoughts : Panton COLOR OF THE YEAR 2021, FRIENDS<br>
 <br>
 
 <img src="https://user-images.githubusercontent.com/68285613/107938911-fc2acf00-6fc0-11eb-9a78-17b3d760ff69.png" width="300" height="300" />
+
 - background : #FFDC00
 - shade : #9A0006
 - word : #FF4238
