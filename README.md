@@ -1,4 +1,4 @@
-# Data-Structure-Chatbot
+# Algorithm Bot
 
 ## Platform & QR Code
 front-end : LINE API, LINE Login(LIFF), Rich Menu, Flex Message<br>
