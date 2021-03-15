@@ -1,17 +1,29 @@
 # Algorithm Bot
 
+## Purpose, Triger Words and Demos
+A chatbot uses LIFF to show some explanations and demonstrations about algorithms based on my blog.<br>
+Aiming to help people to learn algorithms by providing my point of view.
+
+- sorting
+
+<img alt="sorting-demo" src="https://user-images.githubusercontent.com/68285613/111157124-773bd100-85d1-11eb-9771-cec592c8a849.png" width="300" height="300" />
+
+- tree
+
+<img alt="tree-demo" src="https://user-images.githubusercontent.com/68285613/111157149-83279300-85d1-11eb-94c4-0d958d18f432.png" width="300" height="300" />
+
+- hash
+
+<img alt="hash-demo" src="https://user-images.githubusercontent.com/68285613/111157138-7efb7580-85d1-11eb-9911-3154b3d90893.png" width="300" height="300" />
+
+
+<br>
+
 ## Platform & QR Code
 front-end : LINE API, LINE Login(LIFF), Rich Menu, Flex Message<br>
 back-end : Heroku<br>
 All the information about data structures come from [here](https://github.com/iitsmel/iitsmel.io).<br>
 <img src="https://user-images.githubusercontent.com/68285613/107939960-7871e200-6fc2-11eb-9c06-f4d6fbb913c1.png" width="300" height="300" />
-
-<br>
-
-## Triger Words
-- sorting
-- tree
-- hash
 
 <br>
 
