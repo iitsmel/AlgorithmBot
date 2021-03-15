@@ -8,6 +8,13 @@ All the information about data structures come from [here](https://github.com/ii
 
 <br>
 
+## Triger Words
+- sorting
+- tree
+- hash
+
+<br>
+
 ## Problems I've encountered & currently solved
 - unable to successfully verify Webhook URL<br>
 enter following commands works for me<br>
